@@ -1,7 +1,7 @@
 
 # Projeto de App de Previsão do Tempo
 
-Este projeto que tem por objetivo retornar a previsão do tempo.
+Este projeto tem por objetivo mostrar a previsão do tempo do local escolhido pelo usuário.
 
 Este projeto foi desenvolvido por eu Vinícius.
 
@@ -21,7 +21,7 @@ Este projeto foi desenvolvido por eu Vinícius.
 
 *A API usada foi a OpenWeatherMap*
 
-![LINK DA API](https://openweathermap.org/api)
+- [LINK DA API](https://openweathermap.org/api)
 
 ## **Minhas Redes Sociais**
 
