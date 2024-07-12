@@ -21,7 +21,7 @@ Este projeto foi desenvolvido por eu Vinícius.
 
 *A API usada foi a OpenWeatherMap*
 
-![LINK DA API](https://openweathermap.org/api)
+- [LINK DA API](https://openweathermap.org/api)
 
 ## **Minhas Redes Sociais**
 
